@@ -1,7 +1,7 @@
 {
   "childs" :[
     {"id": 1, "l_name":"田中", "f_name":"啓介", "school_age": "小２"},
-    {"id": 1, "l_name":"田中", "f_name":"沙織" "school_age": "高１"}
+    {"id": 1, "l_name":"田中", "f_name":"沙織", "school_age": "高１"}
   ],
   
   "posts": [
