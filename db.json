@@ -1,4 +1,9 @@
 {
+  childs :[
+    {id: 1, l_name="田中", f_name="慶介"},
+    {id: 1, l_name="田中", f_name="沙織"}
+  ],
+  
   "posts": [
     { "id": 1, "name": "エド" },
     { "id": 2, "name": "松藤" },
